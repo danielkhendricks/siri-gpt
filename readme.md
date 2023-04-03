@@ -1,12 +1,10 @@
 # Talk to siri and get answers from Chat-GPT
-
-This is a simple PoC of a node.js app that uses GPT-3.5 to respond to voice prompts from siri. I tested this only through bluetooth from my iPhone using shortcuts to my Macbook Pro.
+This is a proof-of-concept (PoC) Node.js application that utilizes GPT-3.5 to respond to voice prompts from Siri. It has been tested through Bluetooth from an iPhone and executed using shortcuts to a MacBook Pro.
 
 ## Todo list
 - Create a guide on how to setup shortcuts on IOS.
 
 # Swift draft
-
 ```swift
 import UIKit
 import Alamofire
